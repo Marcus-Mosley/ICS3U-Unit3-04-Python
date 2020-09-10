@@ -5,9 +5,6 @@
 # This program checks if an integer is negative, positive, or zero
 
 
-import random
-
-
 def main():
     # This function checks if an integer is negative, positive, or zero
 
